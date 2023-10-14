@@ -3,7 +3,7 @@
 
 <img align="right" alt="hacker" width="400" src="https://media.tenor.com/ofYCY_OJQ1kAAAAC/hacker-hack.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabenari&label=Profile%20views&color=0e75b6&style=flat" alt="kabenari" /> </p>
+
 
 - 🔭 I’m currently working on A BlockChain project **SIH 1284 (E-vault based on blockchain)**
   
