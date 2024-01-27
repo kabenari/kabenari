@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cybersecurity<br>👯 I’m looking to collaborate on nodejs<br>🤝 I’m looking for help with nodejs<br>🌱 I’m currently learning nodejs<br>💬 Ask me about nodejs<br>⚡ Fun fact im always on route
+🔭 I’m currently working on Back-End<br>👯 I’m looking to collaborate on nodejs<br>🤝 I’m looking for help with nodejs<br>🌱 I’m currently learning nodejs<br>💬 Ask me about nodejs<br>⚡ Fun fact im always on route
 
 
 ## 🌐 Socials:
